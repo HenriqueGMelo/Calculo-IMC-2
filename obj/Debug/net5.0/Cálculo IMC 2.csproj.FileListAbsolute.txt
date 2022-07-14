@@ -1,0 +1,16 @@
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\bin\Debug\net5.0\Cálculo IMC 2.exe
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\bin\Debug\net5.0\Cálculo IMC 2.deps.json
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\bin\Debug\net5.0\Cálculo IMC 2.runtimeconfig.json
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\bin\Debug\net5.0\Cálculo IMC 2.runtimeconfig.dev.json
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\bin\Debug\net5.0\Cálculo IMC 2.dll
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\bin\Debug\net5.0\Cálculo IMC 2.pdb
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.AssemblyInfo.cs
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.dll
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\refint\Cálculo IMC 2.dll
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.pdb
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\Cálculo IMC 2.genruntimeconfig.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Cálculo IMC 2\Cálculo IMC 2\obj\Debug\net5.0\ref\Cálculo IMC 2.dll
